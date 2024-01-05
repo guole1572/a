@@ -131,9 +131,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "auto.c3pool.org:19999",
-            "user": "42daQpBD28jPABDHGm1saRJqh7T2XYuf9QradrR8DFRSjoPJ1tZRfaJV6hscKsM3WPC4UoXzwwMLQ6dMpsKsnR7G92nfjLd",
-            "pass": "note2111",
+            "url": "us.zephyr.herominers.com:1123",
+            "user": "ZEPHs9bEKxejAyyxg6GMXUByfv3kboGutHytZm3oFpng8nZwT3sBpPcX4sgFMZUR2ZZWzPcbyUqmgbUDGZnrEmr21QNry7eeTcv",
+            "pass": "note1",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
